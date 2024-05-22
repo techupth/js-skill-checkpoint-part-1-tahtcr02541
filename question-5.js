@@ -19,3 +19,5 @@ const products = [
 
 const promotionCode = "";
 // เริ่มเขียนโค้ดตรงนี้
+
+// ทำไม่ได้ครับ

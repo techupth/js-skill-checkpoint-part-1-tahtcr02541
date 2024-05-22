@@ -4,3 +4,5 @@ const inventory = [
   { name: "Banana", price: 10, quantity: 50 },
 ];
 // เริ่มเขียนโค้ดตรงนี้
+
+// ทำไม่ได้ครับ
